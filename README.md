@@ -1,5 +1,10 @@
 # SchedCal
 A web interface for calculating cpu scheduling time based on different scheduling algorithms.
+Available at: https://schedule-peach.vercel.app/
+
+
+
+
 
 FUNCTIONALITIES OF THE PROJECT
 • Process Scheduling Algorithms are implemented.
